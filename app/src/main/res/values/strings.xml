@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">BéjaïaGo</string>
+
+    <!-- Navigation Drawer -->
+    <string name="category_monuments">Monuments</string>
+    <string name="category_places">Places</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_plages">Plages</string>
+
+    <!-- Monuments Category -->
+    <string name="yemma_gouraya_title">Yemma Gouraya</string>
+    <string name="yemma_gouraya_details">Yama Gouraea est une montagne surplombant la ville de Béjaïa en Algérie. Elle est située à une altitude de 660 mètres au-dessus du niveau de la mer. Elle fait partie d\'une zone protégée. Elle est remplie de forêts denses et de plantes et d\'animaux divers. Au XIXe siècle, dont le point culminant peut être atteint en faisant de la randonnée et en profitant des plus belles vues sur le paysage environnant.</string>
+
+    <string name="casbah_title">La Casbah</string>
+    <string name="casbah_details">La Casbah de Béjaïa est d’ailleurs un indicateur pertinent de cette volonté de domination qui s’est aussi inscrite en dur dans ses murs. Ce monument historique est en fait une citadelle, c’est à dire un ouvrage avant tout militaire. La Casbah de Bejaïa a été érigée vers 1154 par la dynastie des Almohades sous le règne du Sultan Abdelmoumène.</string>
+
+    <string name="bab_el_fouka_title">Bab El Fouka</string>
+    <string name="bab_el_fouka_details">Sur le côté ouest de la vieille ville se trouve l\'ancien Bab Al Fouka, qui est considéré comme l\'un des monuments historiques les plus importants de la ville, car il remonte à 1067 après J.-C. Observation, qui sont toujours debout, et prise de photos souvenirs uniques pour eux et les environs.</string>
+
+    <!-- Plages Category -->
+    <string name="tichy_title">Tichy</string>
+    <string name="tichy_details">Tichy est l\'une des villes de l\'État algérien de Bejaia, qui en est l\'une des villes touristiques les plus importantes, car elle comprend de nombreuses attractions touristiques telles que des plages, des mers, des rivières et des espaces verts qui attirent les amoureux de la nature de tous côtés, en en plus d\'un certain nombre de bâtiments modernes et de sites archéologiques distinctifs, ce qui donne à la ville une beauté architecturale distinctive !</string>
+
+    <string name="aokas_title">Aokas</string>
+    <string name="aokas_details">La plage d\'Auqas est une plage pittoresque de sable et de galets dans la ville d\'Auqas près de Bejaia, et se caractérise par ses charmants paysages d\'eaux turquoises, ses arbres luxuriants sur toute sa longueur et les pentes des montagnes environnantes, et attire un grand nombre de visiteurs souhaitant passer un moment de détente. vacances loin de l\'agitation de la ville, où ils peuvent bronzer et pratiquer diverses activités nautiques amusantes.</string>
+
+    <string name="boulimat_title">Boulimat</string>
+    <string name="boulimat_details">La plage de Boulimat est l\'une des plus belles plages naturelles réparties autour de la ville de Bejaia, qui se caractérise par sa formation naturelle unique, dans laquelle se mélangent des couleurs vives, où le bleu de l\'eau stagnante se mêle à un fond de montagne verte pour former une vue distinctive. Les habitants de la ville et ses visiteurs viennent ici pour passer les moments les plus agréables avec l\'eau, loin de l\'agitation de la ville.</string>
+
+    <!-- Nature Category -->
+    <string name="cascade_djerida_title">Cascade de Djerida</string>
+    <string name="cascade_djerida_details">Située sur le mont des Ait Braham à Darguina, Wilaya de Bejaia, cette cascade est l\'une des plus hautes d\'Afrique du Nord, mais reste méconnue du grand public. Offrant un paysage féerique au sein du massif des Bâbors, elle est soutenue par un village emblématique aux vertus traditionnelles.</string>
+
+    <string name="lac_noir_title">Lac Noir</string>
+    <string name="lac_noir_details">Il est situé en plein massif forestier d\'Akfadou est à 1200 m d’altitude, commune d’Adekar,sa superficie est de 03 Ha. C’est le Lac de montagne le plus prestigieux en Algérie.</string>
+
+    <string name="cap_carbon_title">Le Cap Carbon</string>
+    <string name="cap_carbon_details">Le Cap Carbon, surnommé El Metqoub, abrite le phare naturel le plus élevé du monde, construit en 1889. À 220 mètres au-dessus de la mer, sa lumière peut être vue à 35 milles marins, et une caverne en contrebas aurait servi de refuge au philosophe Raymond Lulle.</string>
+
+    <!-- Places Category -->
+    <string name="gueydon_title">Place Gueydon</string>
+    <string name="gueydon_details">Le regard perdu au loin a contemplé la mer et les différents bateaux assis sur un bon et revivant les flaches back de ta vie toute en rêvant de ton future. Les colombes qui survolent les lieux et viennent te tenir compagnie toute en se mêlant aux différents pas des passants qui inspire la paix c’est le spectacle que la place du 01 novembre ex place queydon t’offre, tous simplement un refuge pour l’âme.</string>
+
+    <string name="brise_title">Brise de Mére</string>
+    <string name="brise_details">La Brise de Mer à Bejaia est un lieu incontournable offrant une vue magnifique sur la mer Méditerranée. C\'est un endroit agréable pour se promener et déguster du poisson grillé dans les restaurants du port de pêche.</string>
+
+    <string name="soummam_title">La maison du congres de la Soummam</string>
+    <string name="soummam_details">Dans une petite maison près du village d\'Ifri, les six chefs de la révolution se sont réunis en secret pour organiser la guerre de libération. Aujourd\'hui, un musée et un mémorial ont été construits sur le site pour rendre hommage aux combattants et exposer des artefacts de la guerre.</string>
+
+    <string name="zaidyoucef_title">this is title</string>
+    <string name="zaidyoucef_details">this is descrrisption</string>
+
+</resources>
